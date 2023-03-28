@@ -23,28 +23,28 @@ no es para uso comercial.
 
 ## HTTP GET
     APIfood/allFoods
- EJ
-    Ñoquis{
-        'Pais':'Argentina',
-        'Tipo De Comida': 'Pasta',
-        'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
-        'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
-        'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
-    }
-    Ñoquis{
-        'Pais':'Argentina',
-        'Tipo De Comida': 'Pasta',
-        'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
-        'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
-        'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
-    }
-    Ñoquis{
-        'Pais':'Argentina',
-        'Tipo De Comida': 'Pasta',
-        'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
-        'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
-        'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
-    }
+    EJ
+        -Ñoquis{
+            'Pais':'Argentina',
+            'Tipo De Comida': 'Pasta',
+            'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
+            'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
+            'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
+        }
+        -Ñoquis{
+            'Pais':'Argentina',
+            'Tipo De Comida': 'Pasta',
+            'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
+            'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
+            'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
+        }
+        -Ñoquis{
+            'Pais':'Argentina',
+            'Tipo De Comida': 'Pasta',
+            'Elaboracion':'Esta elaborada con harina, huevo, papa y agua'
+            'Dato':'Se como esta plato tipo los dias 29 de cada mes, sin embargo se puede disfrutar de esta comida cualquier dia del mes',
+            'token':'fouwhfIUHWUHWRG659198ERGEAG·%$··'
+        }
 
 ## HTTP GET
     APIFood/oneFood
