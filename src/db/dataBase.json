@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "pais": "Argentina",
+        "comida": {
+            "nombre": "Asado",
+            "region": "Nacional",
+            "descripcion": "El asado es el plato insignia de argentina, proveniente de llanura pampeana donde más que una comida típica, hacer asados se convierte en todo un ritual. El asado incluye diferentes tipos de cortes siendo los más utilizados el asado de tira, el vacío y el matambre de vaca o de cerdo, acompañados de achuras como mollejas, chinchulines, riñones, morcillas y chorizos."
+        }
+    },
+    {
+        "id": 2,
+        "pais": "Brazil",
+        "comida": {
+            "nombre": "Feijoada",
+            "region": "Nacional",
+            "descripcion": "La feijoada es la comida típica de Brasil y es un guiso hecho con frijoles negros, carne de cerdo deshidratada. Es servida con arroz y naranjas y espolvoreada con harina de yuca."
+        }
+    },
+    {
+        "id": 3,
+        "pais": "Peru",
+        "comida": {
+            "nombre": "Ceviche",
+            "region": "Nacional",
+            "descripcion": "Este plato es motivo de orgullo y símbolo de identidad nacional.Este delicioso plato marino está principalmente hecho en base a trozos de pescado, cebolla, ají, jugo de limón y sal. Sin embargo y dependiendo de la presentación, se le puede agregar camote, choclo, cancha serrana y algas marinas (yuyo)."
+        }
+    },
+    {
+        "id": 4,
+        "pais": "Chile",
+        "comida": {
+            "nombre": "Porotos Granados",
+            "region": "Nacional",
+            "descripcion": "Los porotos granados son el plato nacional de Chile. Este contundente guiso se elabora con maíz, calabaza y porotos granados, conocidos en Chile como porotos. El plato procede de la tribu mapuche y refleja la poderosa herencia indígena en la cocina chilena."
+        }
+    },
+    {
+        "id": 5,
+        "pais": "Uruguay",
+        "comida": {
+            "nombre": "",
+            "region": "",
+            "descripcion": ""
+        }
+    },
+    {
+        "id": 6,
+        "pais": "Paraguay",
+        "comida": {
+            "nombre": "Chivito",
+            "region": "Nacional",
+            "descripcion": "Es un sándwich de carne de res acompañado con diversos ingredientes, como huevo frito, jamón, queso, tomate, lechuga, mayonesa y otros condimentos. Acompañado de papas fritas, es un favorito que comer en Uruguay."
+        }
+    },
+    {
+        "id": 7,
+        "pais": "Ecuador",
+        "comida": {
+            "nombre": "Guatita",
+            "region": "Nacional",
+            "descripcion": "Este plato consiste en un estofado hecho a base de trozos de estómago de vacuno, que son lo que recibe el nombre de guatitas o también de mondongo."
+        }
+    },
+    {
+        "id": 8,
+        "pais": "Colombia",
+        "comida": {
+            "nombre": "Bandeja Paisa",
+            "region": "Nacional",
+            "descripcion": "La bandeja paisa es el plato nacional de Colombia y se come a toda hora. Se compone de arroz, plátano, arepa (tortas de maíz), aguacate, carne picada, chorizo, salchicha negra y chicharrón frito, y hay un huevo frito en la parte superior para una buena medida."
+        }
+    },
+    {
+        "id": 9,
+        "pais": "Venezuela",
+        "comida": {
+            "nombre": "Pabellon criollo",
+            "region": "Nacional",
+            "descripcion": " reconocido como el plato nacional por excelencia de la gastronomía venezolana. El pabellón criollo tradicional está compuesto por arroz blanco cocido, carne mechada, caraotas (frijoles) negros y tajadas de plátano maduro frito, queso como acompañante y aguacate"
+        }
+    },
+    {
+        "id": 10,
+        "pais": "Mexico",
+        "comida": {
+            "nombre": "Tacos",
+            "region": "",
+            "descripcion": "Los tacos son la comida tipica mas famosa y ademas la mas barata de Mexico. Se trata de tortillas pequeñas de maiz rellenas de carne, normalmente de cerdo o ternera. Las variaciones son muchas: de suadero, de cochinita pibil, de res y al pastor, entre otras"
+        }
+    }
+]
