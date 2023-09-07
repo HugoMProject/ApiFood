@@ -11,11 +11,24 @@
         <header class="header">
             <span>ApiFood</span>
             <ul class="list">
-                <li>Inicio</li>
-                <li>Informacion</li>
+                <li><button id="btn">Informacion</button></li>
             </ul>         
         </header>
         <main>
+            <div class="btnInfo show">
+                <h3>Informacion util</h3>
+                <p>Esta APIs es de uso libre y para fines practicos</p><br>
+                <p>Con ella podras hacer uso de Peticiones:</p><br>
+                <div>
+                    <ul>
+                        <div>GetOne</div>
+                        <div>GetAll</div>
+                        <div>Update</div>
+                        <div>Delete Esta Peticiones no esta Habilitada</div>
+                    </ul>
+
+                </div>
+            </div>
             <h1>Bienvenido a la Api sobre comidas de la Region</h1>
             <section><% AllFoods.forEach(AllFood => { %>
                 <div class="info">
@@ -30,5 +43,6 @@
                 </div>
                 <% }) %></section>
         </main>
+        <script src="script.js"defer></script>
 </body>
 </html>

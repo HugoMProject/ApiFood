@@ -1,6 +1,10 @@
 *{
     padding: 0;
     margin: 0;
+    
+}
+body{
+    font-family:sans-serif;
 }
 .header{
     position: relative;
@@ -12,6 +16,24 @@
     justify-items: center;
     align-items: center;
     justify-content: space-between;
+}
+.btnInfo{
+    position: fixed;
+    z-index: 1;
+    width: 550px;
+    height: 450px;
+    top: 25vh;
+    left: 30vw;
+    background-color: rgb(60, 253, 60);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 3s;
+}
+.show{
+    display: none;
+    transition: all 3s;
 }
 span{
     position: relative;
@@ -35,6 +57,14 @@ span{
     font-family: serif;
     font-size: 25px;
     color: black;
+}
+.list li button{
+    padding: 3px 6px;
+    font-family: serif;
+    font-size: 25px;
+    color: black;
+    background-color: transparent;
+    border-radius: 15px;
 }
 h1{
     position: relative;
